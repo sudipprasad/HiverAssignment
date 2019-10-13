@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d114daa-020a-49a6-bece-25e170428d41" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S6r9Z4DqJTA3S1Cc9MI82BXGm3" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/TestRunner" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Prasad\IdeaProjects\ecommerce_automation\src\test\resources\propertiesFiles" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hiver.tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Prasad\IdeaProjects\ecommerce_automation\src\test\resources\TestRunner" />
+      <recent name="C:\Users\Mr.Prasad\IdeaProjects\ecommerce_automation\src\test\resources" />
+      <recent name="C:\Users\Mr.Prasad\IdeaProjects\ecommerce_automation\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment_Runner_All.xml">
+    <configuration name="Assignment2_Amazon.runAssignment1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiver.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hiver.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.hiver.tests.Assignment2_Amazon" />
+      <option name="METHOD_NAME" value="runAssignment1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment1_Flipkart_Runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestRunner/Assignment1_Flipkart_Runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment2_Amazon_Runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestRunner/Assignment2_Amazon_Runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment_Runner_All.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestRunner/Assignment_Runner_All.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment_Runner_All.xml" />
+        <item itemvalue="TestNG.C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment2_Amazon_Runner.xml" />
+        <item itemvalue="TestNG.Assignment2_Amazon.runAssignment1" />
+        <item itemvalue="TestNG.C:/Users/Mr.Prasad/IdeaProjects/ecommerce_automation/src/test/resources/TestRunner/Assignment1_Flipkart_Runner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d114daa-020a-49a6-bece-25e170428d41" name="Default Changelist" comment="" />
+      <created>1570894735805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570894735805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="productPrice*updatedNoOfItem" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

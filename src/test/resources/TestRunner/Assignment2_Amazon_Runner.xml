@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sanity Test" verbose="1">
+    <test name="Price comparison">
+        <parameter name="browser.type" value="CHROME"/>
+        <classes>
+            <class name="com.hiver.tests.Assignment2_Amazon">
+                <methods>
+                    <include name="runAssignment2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

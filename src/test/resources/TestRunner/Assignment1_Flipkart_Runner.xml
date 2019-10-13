@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sanity Test" verbose="1">
+    <test name="Buying_Pixel_3a_Flipkart">
+        <parameter name="browser.type" value="CHROME"/>
+        <classes>
+            <class name="com.hiver.tests.Assignment1_Flipkart">
+                <methods>
+                    <include name="runAssignment1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
